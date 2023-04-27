@@ -16,7 +16,7 @@ OWNER_ID = int(getenv("OWNER_ID", "5615921474"))
 PING_IMG = getenv("PING_IMG", "https://telegra.ph/file/2e2a2cd8c9db45ae73de6.jpg")
 START_IMG = getenv("START_IMG", "https://telegra.ph/file/2e2a2cd8c9db45ae73de6.jpg")
 
-SESSION = getenv("SESSION", "BQGcYDoAcGtL3w338d7UAsvyomqY6EA1AYiaJDty-OkD9u-P2TAO0bIETYNN4H6kK3GtkdGQ01fTthaMqv19JwZ1aa2QXTkHark5mqITCODNx9yBlq0orVe-kCwOggn-uBNrmpJueTCYdYvXeCGAygSSQ2cLwd-wIezP9fPUs_oTS-e7bQQvk9hsnqf9zgitnhYm1Jt664qp4aprCcbCxEP8x6S5wC0h8Ms7j8jleCwehQzfHmlfBAbUIewDDY3oJ9rXbChXWvq4cHyD_lpv7bTaDz4ss39WwquDdcz-0NtTa1c3Cq3QwaJet-bCHfpK88sFdcRm4dD9_qu6L2GGSAEQLDpgAAAABl18tsAA ")
+SESSION = getenv("SESSION", "BQAhIHQAre_ajeznaafgzJPNJcTWfT4Zu9YlrpYtjHv16nmzNai6FWAGOF-UtNcCJ8vLXGB4AWPQySpCZqJMob7zijj_Vr17MjGKCt5yzmY1ElGsHRwSkQiLTETp70pqFJLxxHFMgFRkGMU5Fh05LmkXiolGmeOj0YUnsu2Ah2LYMjxXzuGa_sNamf4lix9iR72oluCUYFt99h1D63WsJIySPR_9GKhORRFKsrCh7f4UkEq-5kV8YVDAv79OpHZdfF39a9oWHyi_WQstNZuneocrEqfQKZFz30NX4T_GiNkbh6LtG6fLsRhZPIYTg_Ad8WT9SEG14VW_UM8NJ879xMxTXX2DhwAAAABl18tsAA")
 
 MUST_JOIN = getenv("MUST_JOIN", "raingerproject")
 
